@@ -1,0 +1,24 @@
+.button {
+    font-size: 1rem;
+    padding: .5rem 1.5rem;
+    color: #fff;
+    background-color: mediumblue;
+    outline: none;
+    margin: 0;
+    font-weight: 500;
+    cursor: pointer;
+}
+.btn-pm {
+    background-color: orangered;
+}
+.btn-sc {
+    background-color: green;
+}
+.btn-lg {
+    font-size: 1.5rem;
+    padding: .8rem 2.5rem;
+}
+.btn-sm {
+    font-size: .8rem;
+    padding: .4rem 1rem;
+}

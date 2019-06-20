@@ -1,0 +1,27 @@
+.star-war-world{
+    margin: 15px 15%;
+}
+.star-war-world input{
+    width: 100%;
+    padding: 8px 10px;
+    box-sizing: border-box;
+    line-height: 1.5;
+    font-size: 16px;
+}
+.planet{
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    font-size: 16px;
+    padding: 10px;
+    border: 2px solid #f9b3dd;
+    background: #ffeef860;
+}
+.planet img {
+    padding: 20px;
+    background: black;
+    border-radius: 5px;
+}
+.mg-r-30{
+    margin-right: 60px;
+}
